@@ -1,0 +1,64 @@
+.add-task-container{
+    width: 50%;
+}
+.task-name{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 40px;
+    padding: 10px 10px 10px 10px;
+    font-weight: lighter;
+    color: #679BB7 !important;
+    width: 100%;
+}
+
+.task-details{
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    font-weight: lighter;
+    color: #679BB7 !important;
+    width: 100%;
+}
+
+.task-time-spent{
+    font-size: 20px;
+    margin-right: 10px;
+    color: #679BB7 !important;
+    width:100%;
+}
+
+.task-category{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #679BB7 !important;
+    width:100%;
+}
+
+.task-tcat{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+    width: 49%;
+}
+
+.task-tcat input {
+    font-size: 30px;
+    padding: 5px;
+}
+
+.save-btn{
+    margin-top: 10px;
+}
+
+.todays-tasks{
+    width: 80%;
+    text-align: left;
+}
+
+.todays-tasks-cell{
+    vertical-align: top;
+    width: 30%;
+}
+
+.date-picker-container{
+    vertical-align: top;
+}
